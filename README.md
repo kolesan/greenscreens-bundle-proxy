@@ -10,7 +10,7 @@ npm start
 
 ## To start with custom config
 ```
-npm start -- -p 12345 -t "https://myhost.com"
+npm start -- -p 12345 -t https://myhost.com
 ```
 
 ## Bundle config during local development of your app
