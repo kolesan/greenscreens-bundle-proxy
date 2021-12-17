@@ -1,3 +1,7 @@
+## Dependencies
+* [Node.js](https://nodejs.org/en/)
+* [npm](https://www.npmjs.com/) (usually included in Node.js installation)
+
 ## Install
 ```
 npm i
