@@ -1,0 +1,16 @@
+{
+    "name": "portable-bundle-proxy",
+    "version": "1.0.0",
+    "description": "Proxy intended to help with local development of the bundle by circumventing serverside CORS policies",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js"
+    },
+    "author": "konstantin.lebedev@greenscreens.ai",
+    "license": "ISC",
+    "dependencies": {
+        "command-line-args": "^5.2.0",
+        "http-proxy": "^1.18.1"
+    }
+}
