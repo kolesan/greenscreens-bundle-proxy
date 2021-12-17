@@ -1,3 +1,8 @@
+## Install
+```
+npm i
+```
+
 ## To start on port 8081 and proxy to https://testing.greenscreens.ai
 ```
 npm start
